@@ -1,5 +1,7 @@
 colorscheme slate
 syntax on
+filetype plugin on
+set ofu=syntaxcomplete#Complete
 set wildmenu
 set incsearch
 set hlsearch
