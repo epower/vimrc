@@ -16,3 +16,6 @@ set number
 :map tk :tabnext<CR>
 :map ts :setlocal spell spelllang=en_gb<CR>
 :map td :setlocal nospell<CR>
+
+" Paste Toggle
+set pastetoggle=<F2>
