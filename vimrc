@@ -1,3 +1,4 @@
+execute pathogen#infect()
 colorscheme slate
 syntax on
 filetype plugin on
