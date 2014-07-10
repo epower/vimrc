@@ -1,6 +1,7 @@
 execute pathogen#infect()
-colorscheme slate
 syntax on
+set background=dark
+colorscheme solarized
 filetype plugin on
 set ofu=syntaxcomplete#Complete
 set wildmenu
@@ -11,6 +12,7 @@ set softtabstop=2
 set shiftwidth=2
 set expandtab
 set number
+set linebreak
 
 " Tab shortcuts
 :map tn :tabnew<CR>
