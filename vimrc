@@ -23,3 +23,6 @@ set linebreak
 
 " Paste Toggle
 set pastetoggle=<F2>
+
+" Tag Auto Close
+:iabbrev <// </<C-X><C-O>
